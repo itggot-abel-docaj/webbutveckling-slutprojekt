@@ -32,8 +32,17 @@ header {
     object-fit: scale-down;
 }
 
+article {
+    text-align: center;
+    padding: 10%;
+}
 
+article img {
+    width: 500px;
+    height: 100px;
+}
 
 @media screen and (max-width: 920px) {
     
 }
+
